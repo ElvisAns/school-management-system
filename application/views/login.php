@@ -70,18 +70,23 @@
                           <button type="submit" class="mdc-button mdc-button--raised w-100">
                             Connexion
                           </button>
-                          </a>
                         </div>
                       </div>
                     </div>
                   </form>
                 </div>
               </div>
-              <div class="stretch-card mdc-layout-grid__cell--span-4-desktop mdc-layout-grid__cell--span-1-tablet"></div>
+
+              <div class="stretch-card mdc-layout-grid__cell--span-4-desktop mdc-layout-grid__cell--span-1-tablet">
+                
+              </div>
             </div>
           </div>
+          <p style="text-align: center;">Made with <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Love_Heart_symbol.svg/1111px-Love_Heart_symbol.svg.png" style="height: 15px; width:auto;"> by <a href="https://github.com/ElvisAns" target="_blank">ElvisAns</a> & <a href="https://groupesupra.com/" target="_blank">Group Supra devs</a>
+          </p>
         </main>
       </div>
+
     </div>
   </div>
   <!-- plugins:js -->
