@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'ujn-esystem',
+	'hostname' => 'db4free.net',
+	'username' => 'payeletricity',
+	'password' => 'root377303bs663d3',
+	'database' => 'payelectriciy',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
