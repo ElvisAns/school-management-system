@@ -4,7 +4,7 @@
 
 This is currently an open source project for managing school and univeristy
 
-Get logged to the system though  https://schoolesystem.herokuapp.com/
+Get logged to the system through  https://schoolesystem.herokuapp.com/
 
 Username : admin@esystem.com
 password: admin\*ujn
